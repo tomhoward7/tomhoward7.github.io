@@ -1,6 +1,6 @@
 # Site settings
-name: John Smith
-description: "Nifty little description"
+name: Marc Best
+description: "Software Developer with previous DevOps experience"
 url: ""
 
 
@@ -13,7 +13,7 @@ twitter_username: marcbest
 linkedin_username: marc-best
 instagram_username:  marcbest123
 # flickr_username: your_flickr_username_goes_here
-stack_of_username: marcbest
+stack_of_username: 970843
 # medium_username:  your_medium_username_goes_here
 # blog_url: "/blog"
 # email: your-email@example.domain
