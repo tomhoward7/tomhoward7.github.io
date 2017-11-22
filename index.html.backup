@@ -111,10 +111,6 @@ permalink: /
                     <li><a class="fa fa-2x fa-envelope" href="mailto:{{ site.email }}" target="_blank"><span class="description">Email</span></a></li>
                     {% endif %}
 
-                    {% if site.work_email %}
-                    <li><a class="fa fa-2x fa-envelope" href="mailto:{{ site.work_email }}" target="_blank"><span class="description">Work_Email</span></a></li>
-                    {% endif %}
-
                     {% if site.public_key_url %}
                     <li><a class="fa fa-2x fa-key" href="{{ site.public_key_url }}" target="_blank"><span class="description">PGP Key</span></a></li>
                     {% endif %}
